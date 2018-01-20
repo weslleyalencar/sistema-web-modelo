@@ -1,4 +1,4 @@
-package erp.sistema.controller;
+package com.br.sistema.erp.testes;
 
 public class Teste {
 	
